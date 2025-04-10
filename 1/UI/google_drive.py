@@ -22,8 +22,8 @@ from .utils import _show_warning_mixin, _show_critical_mixin
 SCOPES = ["https://www.googleapis.com/auth/drive.appdata"]
 CLIENT_CONFIG = {
     "installed": {
-        "client_id": "622051045501-n5k5qqfuvtr7ndvjd4lr4q89ghjel4e4.apps.googleusercontent.com",
-        "client_secret": "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",
+        "client_id": "00",
+        "client_secret": "00",
         "auth_uri": "https://accounts.google.com/o/oauth2/auth",
         "token_uri": "https://oauth2.googleapis.com/token",
         "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
